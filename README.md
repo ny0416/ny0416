@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+### 🔭 广东工业大学 信息安全2班 陈伟珊
+### 🌱 软件工程学习中
+### 🤔 问题多多
+### 💬 多多问题
+### ⚡ 早起困难户
+### 😄 熬夜小能手
 <!--
 **ny0416/ny0416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
